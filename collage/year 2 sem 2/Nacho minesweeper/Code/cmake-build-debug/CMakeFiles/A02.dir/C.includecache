@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David/Desktop/collage/year 2 sem 2/Nacho minesweeper/Code/main.c
+time.h
+-
+mine_ship_game.h
+C:/Users/David/Desktop/collage/year 2 sem 2/Nacho minesweeper/Code/mine_ship_game.h
+string.h
+-
+
+C:/Users/David/Desktop/collage/year 2 sem 2/Nacho minesweeper/Code/mine_ship_game.c
+mine_ship_game.h
+C:/Users/David/Desktop/collage/year 2 sem 2/Nacho minesweeper/Code/mine_ship_game.h
+
+C:/Users/David/Desktop/collage/year 2 sem 2/Nacho minesweeper/Code/mine_ship_game.h
+time.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

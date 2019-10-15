@@ -1,0 +1,9 @@
+2;Cinema Ticket;potato
+2;Burger King Vouncher;grapefruit
+4;New Shoes;melon
+4;New Jacket;pear
+6;Go carting trip;pineapple
+6;Sky diving;banana
+8;Diving trip;grape
+8;Trip to France;strawberry
+10;Hardback copy of head first java;mango
